@@ -2,7 +2,7 @@
 - 👀 I’m interested in decentralized technologies
 - 🌱 I’m currently learning cross-ledger technologies and DeFI protocols
 - 💞️ I’m looking to collaborate on decentralized governance models and DAOs
-- 📫 How to reach me at tdursun@gmail.com  or Linkedin [[https://www.linkedin.com/in/taner-dursun]]
+- 📫 How to reach me at tdursun@gmail.com  or Linkedin https://www.linkedin.com/in/taner-dursun
 
 25+ years experience in many aspects of IT, specializing in parallel and distributed computing systems, blockchain technologies, information security, cryptography, management technologies, system, and software engineering. 
 
