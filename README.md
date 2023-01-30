@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @tdursun. BSc and MSc in Computer Engineering, Istanbul Technical University (in 1994 and 1998)
 - 👀 I’m interested in decentralized technologies
 - 🌱 I’m currently learning cross-ledger technologies and DeFI protocols
-- 💞️ I’m looking to collaborate on governance models and DAOs
-- 📫 How to reach me at tdursun@gmail.com
+- 💞️ I’m looking to collaborate on decentralized governance models and DAOs
+- 📫 How to reach me at tdursun@gmail.com  or Linkedin [[https://www.linkedin.com/in/taner-dursun]]
 
 25+ years experience in many aspects of IT, specializing in parallel and distributed computing systems, blockchain technologies, information security, cryptography, management technologies, system, and software engineering. 
 
